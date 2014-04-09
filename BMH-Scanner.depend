@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1396033300 source:f:\antivirus\tries\bmh-scanner\bmh-scanner\bmh.cpp
+	"BMH.h"
+	<string.h>
+
+1396014339 f:\antivirus\tries\bmh-scanner\bmh-scanner\bmh.h
+	<iostream>
+
+1396009312 source:f:\antivirus\tries\bmh-scanner\bmh-scanner\fileprep.cpp
+	"FilePrep.h"
+
+1395952117 f:\antivirus\tries\bmh-scanner\bmh-scanner\fileprep.h
+	<iostream>
+	<fstream>
+	<iomanip>
+
